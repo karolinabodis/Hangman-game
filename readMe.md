@@ -10,7 +10,7 @@ _Goals:_
 
 ✔️ If the suggested letter occurs in the word the blanks needs to be filled with that letter in the right places.
 
-✔️ If the suggested letter does not occur in the word the number of guesses should decrease by one.
+✔️ If the suggested letter does not occur in the word the number of guesses should be decreased by one.
 
 ✔️ The game ends either the correct word is guessed or the number of guesses is 0.
 
